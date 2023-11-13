@@ -1,11 +1,11 @@
 
-# Barus 1
+# Laputa
 
-A slave node of [Laputa](/systems/laputa).
+The head node of [Laputa](/systems/laputa).
 
 **Hardware Info** | |
 ---|---
-Alias | [b1]()
+Alias | [laputa]()
 Model | Supermicro 1U Server
 CPU | Intel Xeon
 Number of CPUs | 2

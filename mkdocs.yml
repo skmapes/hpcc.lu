@@ -1,0 +1,19 @@
+site_name:  HPCC
+site_url:   https://example.com/
+nav:
+  - Systems:
+    - Systems: '/systems'
+    - Laputa: '/systems/laputa'
+    - Naushikaa: '/systems/naushikaa'
+    - Totoro: '/systems/totoro'
+  - Inventory:
+    - Inventory: '/inventory'
+    - Servers: '/inventory/servers'
+    - 'Raspberry Pis': '/inventory/pis'
+    - Networking: '/inventory/networking'
+    - Peripherals: '/inventory/peripherals'
+  - Guides: '/guides'
+  - Powerpoints: '/powerpoints'
+  - Resources: '/resources'
+theme:
+  name: mkdocs

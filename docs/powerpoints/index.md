@@ -9,7 +9,7 @@ Introductory Meeting | [ODP](HPCC-09-11-23.odp) | [PDF](HPCC-09-11-23.pdf) | 09/
 Setting Up a Beowulf Cluster | [ODP](HPCC-09-18-23.odp) | [PDF](HPCC-09-18-23.pdf) | 09/18/23<br>Caleb Kates (Ches) | A presentation on setting up a Beowulf cluster.
 SSH Basics | [ODP](HPCC-09-25-23.odp) | [PDF](HPCC-09-25-23.pdf) | 09/25/23<br>Sean Mapes | A basic overview of secure-shell host (SSH) and it's uses.
 Linux Basics and Building Arch | [ODP](HPCC-10-02-23.odp) | [PDF](HPCC-10-02-23.pdf) | 10/02/23<br>Jamison Kagey | An overview of Linux, how it works, and how to build a basic Arch Linux system.
-Pi Clusters | [PDF](HPCC-10-09-23.pdf) | 10/09/23<br>Ben Peterson | A basic overview of how to set up a cluster of Raspberry Pis.
+Pi Clusters | | [PDF](HPCC-10-09-23.pdf) | 10/09/23<br>Ben Peterson | A basic overview of how to set up a cluster of Raspberry Pis.
 Raspberry Pi Clusters - Hands-On | [ODP](HPCC-10-16-23.odp) | [PDF](HPCC-10-16-23.pdf) | 10/16/23<br>Sean Mapes | A hands-on week with the Raspberry Pi clusters.
 Raspberry Pi Clusters - Hands-On - Week 2 | [ODP](HPCC-10-23-23.odp) | [PDF](HPCC-10-23-23.pdf) | 10/23/23<br>Sean Mapes | A hands-on week with the Raspberry Pi clusters.
 RAID and Local Cache Repositiory | [ODP](HPCC-10-30-23.odp) | [PDF](HPCC-10-30-23.pdf) | 10/30/23<br>Connor Anderson | An overview of RAID and how to set up a local cache repository.

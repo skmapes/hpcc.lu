@@ -1,11 +1,8 @@
 
-# Systems
-
+## Systems
 All of our systems that are currently used.
 
-Right now, we have 3 systems currently up and running:
-
-**Systems** ||
+|||
 ---|---
 [Laputa](laputa/) | The primary club system, a cluster which we can add to and expand.
 [Naushikaa](naushikaa/) | A GPU cluster featuring Titan X GPUs, formerly Big Boy.

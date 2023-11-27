@@ -1,11 +1,11 @@
 
 # Laputa
-
 Our primary club system, a cluster which we can add to and expand.
 
 The head node of the cluster is [Laputa](/inventory/laputa).
 
-**System Info** ||
+### System Info
+|||
 ---|---
 IP | [10.92.51.56]()
 Operating System | [Rocky Linux](https://rockylinux.org/)

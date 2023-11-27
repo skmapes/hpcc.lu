@@ -3,9 +3,9 @@ site_url:   https://example.com/
 nav:
   - Systems:
     - Systems: '/systems'
-    - Laputa: '/systems/laputa'
-    - Naushikaa: '/systems/naushikaa'
-    - Totoro: '/systems/totoro'
+    - Laputa: '/systems#laputa'
+    - Naushikaa: '/systems#naushikaa'
+    - Totoro: '/systems#totoro'
   - Inventory:
     - Servers: '/inventory#servers'
     - 'Raspberry Pis': '/inventory#raspberry-pis'

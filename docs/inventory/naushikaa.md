@@ -1,9 +1,9 @@
 
 # Naushikaa
-
 The server running [Naushikaa](/systems/naushikaa).
 
-**Hardware Info** | |
+### Hardware Info
+|||
 ---|---
 Alias | [naushikaa]()
 Model | 

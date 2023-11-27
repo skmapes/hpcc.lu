@@ -1,9 +1,9 @@
 
 # Laputa
-
 The head node of [Laputa](/systems/laputa).
 
-**Hardware Info** | |
+### Hardware Info
+|||
 ---|---
 Alias | [laputa]()
 Model | Supermicro X7DCA-L

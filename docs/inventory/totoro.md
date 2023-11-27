@@ -1,9 +1,9 @@
 
 # Totoro
-
 The server running [Totoro](/systems/totoro).
 
-**Hardware Info** | |
+### Hardware Info
+|||
 ---|---
 Alias | [totoro]()
 Model | ASUS

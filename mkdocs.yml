@@ -7,6 +7,7 @@ nav:
     - Naushikaa: '/systems#naushikaa'
     - Totoro: '/systems#totoro'
   - Inventory:
+    - Inventory: '/inventory'
     - Servers: '/inventory#servers'
     - 'Raspberry Pis': '/inventory#raspberry-pis'
     - Networking: '/inventory#networking'
@@ -14,5 +15,8 @@ nav:
   - Guides: '/guides'
   - Powerpoints: '/powerpoints'
   - Resources: '/resources'
+plugins:
+  - search
+  - macros
 theme:
-  name: mkdocs
+  name: material

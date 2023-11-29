@@ -8,7 +8,7 @@ Our primary club system, a cluster which we can add to and expand.
 The head node of the cluster is [Laputa](/inventory/laputa).
 
 ### System Info
-|||
+Specification | Value
 ---|---
 IP | [10.92.51.56]()
 Operating System | [Rocky Linux](https://rockylinux.org/)
@@ -19,7 +19,7 @@ Hardware | [Laputa](/inventory/laputa)<br>[Barus 1](/inventory/b1)<br>[Barus 2](
 A GPU cluster featuring Titan X GPUs, formerly Big Boy.
 
 ### System Info
-|||
+Specification | Value
 ---|---
 IP | [10.92.50.232]()
 Operating System | [Rocky Linux](https://rockylinux.org/)
@@ -30,7 +30,7 @@ Hardware | [Naushikaa](/inventory/naushikaa)
 The most modern system we have, boasting powerful 3090s for heavy graphics horsepower.
 
 ### System Info
-|||
+Specification | Value
 ---|---
 IP | [10.92.50.199]()
 Operating System | [Rocky Linux](https://rockylinux.org/)

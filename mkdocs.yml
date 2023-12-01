@@ -17,6 +17,5 @@ nav:
   - Resources: '/resources'
 plugins:
   - search
-  - macros
 theme:
   name: mkdocs

@@ -19,4 +19,4 @@ plugins:
   - search
   - macros
 theme:
-  name: material
+  name: mkdocs
